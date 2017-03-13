@@ -1,0 +1,20 @@
+命令稿啟動於 2017年03月13日 (週一) 20時50分16秒
+]0;lemons@lemons-VirtualBox ~/桌面[01;32mlemons@lemons-VirtualBox[00m [01;34m~/桌面 $[00m whoi[Kami [K; pwd
+lemons
+/home/lemons/桌面
+]0;lemons@lemons-VirtualBox ~/桌面[01;32mlemons@lemons-VirtualBox[00m [01;34m~/桌面 $[00m git ong[K[K[Kcongi[K[Kfig -l
+user.email=hangalice2156@gmail,com
+]0;lemons@lemons-VirtualBox ~/桌面[01;32mlemons@lemons-VirtualBox[00m [01;34m~/桌面 $[00m git con[K[Klone he[Kttps:[K;[K://github//[K[K.com//[Khangalice2156/c[KC-l esson-lab1.git
+Cloning into 'C-lesson-lab1'...
+Username for 'https://github.com': ^C
+]0;lemons@lemons-VirtualBox ~/桌面[01;32mlemons@lemons-VirtualBox[00m [01;34m~/桌面 $[00m git clone https://github.com/hangalice2156/C-leesson-lab1.git_1.git
+Cloning into 'C-lesson-lab_1'...
+remote: Counting objects: 3, done.[K
+remote: Compressing objects:  50% (1/2)   [Kremote: Compressing objects: 100% (2/2)   [Kremote: Compressing objects: 100% (2/2), done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+Checking connectivity... done.
+]0;lemons@lemons-VirtualBox ~/桌面[01;32mlemons@lemons-VirtualBox[00m [01;34m~/桌面 $[00m exit
+
+命令稿已於 2017年03月13日 (週一) 21時09分13秒
+ 完成
